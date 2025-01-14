@@ -1,2 +1,2 @@
-#Foodgram
+# Foodgram
 Zadanie na witryny
